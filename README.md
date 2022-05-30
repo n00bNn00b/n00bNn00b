@@ -4,7 +4,7 @@
 - 🌱 I’m comfortable with HTML5, CSS3, JavaScript, ES6 Bootstrap5, TailwindCSS, DaisyUI, Google Firebase, MongoDB and basic NodeJS, ExpressJS and JWT ...
 - 💞️ I’m looking to collaborate with people who have passion in coding and gaming ...
 - ♟️  I love to play chess. [not a good player though] 
-- 📫  https://www.facebook.com/n00bNn00b
+- 📖 I love to read novels and love to watch anime
 
 <!---
 n00bNn00b/n00bNn00b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
