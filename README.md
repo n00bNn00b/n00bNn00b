@@ -11,7 +11,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n00bnn00b" alt="n00bnn00b" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=n00bnn00b" alt="n00bnn00b" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
