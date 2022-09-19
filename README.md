@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Rangamati a south eastern hill district of Bangladesh. </h3>
+<h3 align="center">A passionate MERN Stack Developer from Rangamati a south eastern hill district of Bangladesh. </h3>
 
 - 👋 Hi, I’m Real Dewan aka @n00bNn00b
 - 👀 I’m interested in Java, Python and especially JavaScript...
