@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/realdewan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realdewan" height="30" width="40" /></a>
-  <a href="https://www.showwcase.com/n00bnn00b" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4E0BAQEQ8GtXpihTlA/company-logo_200_200/0/1633746807779?e=2147483647&v=beta&t=Q78zCmTAjAG1dY08IB6YfD2zCOfrpWSqsvKqlnm1agU" alt="realdewan" height="30" width="40" /></a>
+  <a href="https://www.showwcase.com/n00bnn00b" target="blank"><img align="center" src="https://company-assets.showwcase.com/showwcase_1649326857208.png" alt="realdewan" height="30" width="40" /></a>
 </p>
 
 
